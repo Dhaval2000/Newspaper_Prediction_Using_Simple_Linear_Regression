@@ -10,4 +10,8 @@ Here, we are predicting Sunday's ratio in cause of Daily ratio.
 
 
 Explained with simple steps and descriptions.
+
+
+
+
 Keep learning!
