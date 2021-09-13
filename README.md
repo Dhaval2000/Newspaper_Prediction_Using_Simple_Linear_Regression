@@ -1,0 +1,2 @@
+# Newspaper_Prediction_Using_Simple_Linear_Regression
+Showing steps to predict values using Simple_Linear_Regression 
